@@ -1,6 +1,6 @@
 # Gebrauchtwaren-Buch: Differenzbesteuerung (§25a UStG) für Reseller auf eBay, Vinted, Kleinanzeigen …
 
-**Stage:** scouted · **Platform:** web · **Score:** 3.3/5 · **Spend:** $0.00
+**Stage:** killed · **Platform:** web · **Score:** 3.3/5 · **Spend:** $0.96
 
 For VAT-registered German resellers who buy used goods from private persons: a browser tool that keeps the per-item purchase and sale record §25a requires, writes the purchase receipt (Ankaufbeleg) for a private seller, works out the margin VAT per item or by the Gesamtdifferenz method, and outputs the monthly VAT-return figures and a DATEV booking file. Unlike the only dedicated tool (Vintax), it is not tied to Shopify.
 
@@ -44,3 +44,4 @@ No real numbers yet. Fill in `metrics.json` (Search Console, analytics, Stripe);
 ## History
 
 - 2026-11-10 11:27 · scouted · picked from the bench: score 3.3, under the usual 3.5; the review panel is skipped, the prototype is how it is judged
+- 2026-11-10 12:15 · killed · rejected by the product lead: The non-Shopify gap the Scout claims is already served by German reseller tools: Resaldo (§25a per item and Gesamtdifferenz, self-issued receipts, eBay import), VinTracker (margin-scheme accounting and receipts from 2.99 EUR a month) and easybill (§25a invoices and DATEV from 9 EUR a month), plus Vintax on Shopify, so our only angle is a twist.
