@@ -36,6 +36,11 @@ No real numbers yet. Fill in `metrics.json` (Search Console, analytics, Stripe);
 - deutschland-rechner Differenzbesteuerung-Rechner (partial): A one-off calculator for a single item: no record book, no receipts, no monthly totals (seen in search results, not opened).
 - JTL-Wawi (partial): Free desktop ERP for online sellers. I could not verify whether it supports §25a, and it is heavy Windows software for a small reseller.
 
+## Links
+
+- Repo: https://github.com/veste-software/gebrauchtwaren-buch-differenzbesteuerung-25a-ust
+- Preview (GitHub Pages, builds from main): https://veste-software.github.io/gebrauchtwaren-buch-differenzbesteuerung-25a-ust/
+
 ## History
 
 - 2026-11-10 11:27 · scouted · picked from the bench: score 3.3, under the usual 3.5; the review panel is skipped, the prototype is how it is judged
